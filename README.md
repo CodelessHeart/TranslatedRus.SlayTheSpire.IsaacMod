@@ -1,2 +1,10 @@
 # TranslatedRus.SlayTheSpire.IsaacMod
-Не только исек :D
+
+Оригинальный мод https://steamcommunity.com/sharedfiles/filedetails/?id=1614223336
+
+### Инструкция:
+Скачай IsaacMod.jar , закинь его и играй ! (и basemod.jar )
+
+- Steam версии Steam\SteamApps\workshop\content\646570\1614223336. (нужно создать папку 1614223336 и закинуть туда)
+
+- Пиратам , в папке с игрой /mods папка.
