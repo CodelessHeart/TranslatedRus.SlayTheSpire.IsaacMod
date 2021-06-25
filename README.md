@@ -1,4 +1,4 @@
-# TranslatedRus.SlayTheSpire.IsaacMod
+# TranslatedRus.SlayTheSpire.IsaacMod v.1.1
 
 Оригинальный мод https://steamcommunity.com/sharedfiles/filedetails/?id=1614223336
 
